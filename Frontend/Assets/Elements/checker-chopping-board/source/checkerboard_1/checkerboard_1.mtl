@@ -1,0 +1,28 @@
+# Blender MTL File: 'checkerboard_1.blend'
+# Material Count: 2
+
+newmtl Material
+Ns 359.999993
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.717120 0.151191
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\brend\\Documents\\projects\\Blender\\textures\\pbr\\wood\\plywood_1k\\textures\\plywood_nor_gl_1k.jpg
+map_Kd C:\\Users\\brend\\Documents\\projects\\Blender\\textures\\pbr\\wood\\plywood_1k\\textures\\plywood_diff_1k.jpg
+map_Ns C:\\Users\\brend\\Documents\\projects\\Blender\\textures\\pbr\\wood\\plywood_1k\\textures\\plywood_rough_1k.jpg
+
+newmtl Material.001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\brend\\Documents\\projects\\Blender\\textures\\pbr\\wood\\wood_table_001_2k\\textures\\wood_table_001_nor_dx_2k.exr
+map_Kd C:\\Users\\brend\\Documents\\projects\\Blender\\textures\\pbr\\wood\\wood_table_001_2k\\textures\\wood_table_001_diff_2k.jpg
+map_Ns C:\\Users\\brend\\Documents\\projects\\Blender\\textures\\pbr\\wood\\wood_table_001_2k\\textures\\wood_table_001_rough_2k.exr
